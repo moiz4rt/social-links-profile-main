@@ -32,14 +32,12 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL do Repositório da Solução: [GitHub](https://github.com/moiz4rt/social-links-profile-main)
+- URL do Site com a Solução: [Netlify](https://solutiontosociallinksprofilemain.netlify.app/)
 
-## My process
+## Meu processo
 
 Eu tentei centralizar o card usando _position: absolute_ por causa das vantagens de não ser necessário maximizar o contêiner pai pra poder colocar na posição desejada. Mas com isso deslocava-se o rodapé do crédito e se perdia as vantagens do _display: flex_ que incluem a centralização dos elementos nos dois eixos com _justify-content_ e _align-items_ e o gap, o que seria muito trabalhoso utilizando outra forma.
 Em alguns casos onde precisei diminuir a margem inferior tive que mudar o _line-height_ para evitar margens negativas.
@@ -47,12 +45,12 @@ Ainda tenho uma certa insegurança em definir uma largura fixa em um contêiner 
 É muito extenuante calcular proporções no olho, mas pelo menos o resultado final parece ter chegado mais perto.
 Ia usar _html { font-size: 62.5% }_, mas li que era melhor manter em 100% e utilizar variáveis. Como este é um desafio pequeno não me importei em escrever variáveis, mas com certeza teria usado se fosse um projeto bem maior.
 
-### Built with
+### Feito com 
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+- HTML5 
+- CSS 
+  - Flexbox
+- Abordagem Mobile-first 
 
 ### What I learned
 
