@@ -54,4 +54,4 @@ Acho que o meu maior problema neste projeto foi o problema da acessibilidade. Vo
 
 ## Autor 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@moiz4rt](https://www.frontendmentor.io/profile/moiz4rt)
